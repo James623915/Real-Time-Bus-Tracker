@@ -7,4 +7,4 @@ Clone or download Real-Time-Bus-Tracker repository and open on the index.html fi
 ## Roadmap of future improvement
 I am planning to improve my eye project by making those eyes blinking while the mouse stops moving.
 ## License information
-See <a href="https://github.com/James623915/Eye-Exercise/blob/main/LICENSE">license file.</a> 
+See <a href="https://github.com/James623915/Real-Time-Bus-Tracker/blob/main/LICENSE">license file.</a> 
